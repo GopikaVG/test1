@@ -1,0 +1,5 @@
+main()
+{
+printf("gopika\n");
+}
+
